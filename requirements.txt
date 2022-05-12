@@ -4,5 +4,5 @@ streamlit==0.82.0
 mediapipe==0.8.4.2
 numpy==1.18.5
 Pillow==8.2.0
-click==8.0.4
+click<8.0.4
 
