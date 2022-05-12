@@ -4,5 +4,3 @@ opencv-python-headless==4.5.5.64
 streamlit==0.82.0
 Pillow==8.2.0
 click<8.0
-libgl1
-
